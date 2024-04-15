@@ -3,4 +3,6 @@ Test videosunun ve sonucunun linkini aşağıda görebilirsiniz.
 Manuel test case eklerde mevcuttur.
 
 https://www.loom.com/share/ba25d112244c40818419fd7b42ad87d2
+
+
 https://prnt.sc/kPEGivOoNSsK
